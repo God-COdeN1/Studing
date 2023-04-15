@@ -34,4 +34,4 @@ while True:
             except ValueError:
                 print("Будь ласка, введіть 'q' для виходу або 'r' для перезапуску.")
         continue
-
+/
