@@ -6,7 +6,12 @@ elif user_Happy == 2:
 else:
     user_Happy = True
 print(type(user_Happy))
+print("---\n---\n---\n---\n")
 # if user_Happy == True:
 #     print("Чому?")
 #     print(user_Happy)
+
+
+its_num = True if user_Happy == 1 else False
+print(its_num)
 
